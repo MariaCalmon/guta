@@ -21,3 +21,29 @@
 </body>
 </html>
 
+h1{
+    color: black;
+}
+.capivara{
+    font-size: medium;
+    font-style: italic;
+}
+.pinguim{
+    width: 100%;
+}
+.h2{
+ background-color: aqua;
+}
+.macacoprego{
+font-size: 50%;
+}
+.macaquinho{
+    margin-left: 20%;
+}
+h2{
+    background-color: blue;
+}
+.golfinho{
+    display:inline-block;
+    padding: 40%;
+}
