@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <linkrel
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ola</title>
 </head>
@@ -19,3 +20,4 @@
     <img class="gato" src="make.jpg">
 </body>
 </html>
+
