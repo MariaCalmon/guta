@@ -11,8 +11,7 @@
         <nav>
         <a href="index.html">Home</a>
         <a href="produtos.html">produtos</a>
-        <a href=""
-
+        <a href="https://www.youtube.com/watch?v=7ImJmtoq9X4">Video</a>
         </nav>
     </header>
     <h1>titulo 1</h1>
@@ -28,6 +27,9 @@
     <img class="gato" src="make.jpg">
 </body>
 </html>
+
+
+
 
 h1{
     color: black;
