@@ -2,11 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <linkrel
+    <linkrel ref="maria.css"></linkrel>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ola</title>
 </head>
 <body>
+    <header>
+        <nav>
+        <a href="index.html">Home</a>
+        <a href="produtos.html">produtos</a>
+        <a href=""
+
+        </nav>
+    </header>
     <h1>titulo 1</h1>
     <p class="capivara">paragrafo</p>
     <img class="pinguim" src="stich.jpg">
