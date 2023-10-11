@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <linkrel ref="maria.css"></linkrel>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ola</title>
+    <title>Disney</title>
+    <link rel="stylesheet" href="maria.css">
 </head>
 <body>
     <header>
@@ -31,9 +31,7 @@
 
 
 
-h1{
-    color: black;
-}
+
 .capivara{
     font-size: medium;
     font-style: italic;
@@ -66,15 +64,38 @@ h2{
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmes</title>
+    <link rel="stylesheet" href="filmes.css">
+</head>
+<body>
+    <ul>
+        <img src="lilo.jpeg">
+        <p class="lilo">De acordo com a sinopse oficial do filme, 'Lilo & Stitch' vai "contar a história do vínculo formado entre uma garota humana solitária chamada Lilo e um alienígena parecido com um cachorro chamado Stitch, que foi geneticamente modificado para ser uma força de destruição.</p>
+        <p class="lilo">filme lançado em 1985</p>
+    </ul>
+    <ul>
+        <img src="adormecida.jpeg">
+        <p class="adormecida">Amaldiçoada desde a infância, a princesa é uma jovem doce e inocente que vive protegida pelos pais, que tentam evitar seu destino trágico. No entanto, quando ela faz 16 anos, a profecia se cumpre e todos entram num sono imperturbável. No final, ela é acordada por um príncipe com o qual se casa e tudo volta ao norma</p>
+        <p class="adormecida">Filme lançado em 6 de fevereiro de 1959</p>
+    </ul>
+</body>
+</html>
 
-<ul>
-    <img src="lilo.jpeg">
-    <p>De acordo com a sinopse oficial do filme, 'Lilo & Stitch' vai "contar a história do vínculo formado entre uma garota humana solitária chamada Lilo e um alienígena parecido com um cachorro chamado Stitch, que foi geneticamente modificado para ser uma força de destruição.</p>
-    <p>filme lançado em 1985</p>
-</ul>
-<ul>
-    <img src="adormecida.jpeg">
-    <p>Amaldiçoada desde a infância, a princesa é uma jovem doce e inocente que vive protegida pelos pais, que tentam evitar seu destino trágico. No entanto, quando ela faz 16 anos, a profecia se cumpre e todos entram num sono imperturbável. No final, ela é acordada por um príncipe com o qual se casa e tudo volta ao norma</p>
-    <p>Filme lançado em 6 de fevereiro de 1959</p>
-</ul>
 
+
+
+
+
+.lilo{
+    font-size: 100%;
+    background-color: aqua;
+}
+.adormecida{
+    font-style: oblique;
+    background-color: rosybrown;
+}
