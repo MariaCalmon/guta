@@ -1,9 +1,16 @@
 .lilo{
     font-size: 100%;
     background-color: aqua;
+    border-color: red;
+    border-width: 15px;
+    border-style: groove;
+    border-radius: 15px 50px 5px 100px;
 }
 .adormecida{
     font-style: oblique;
     background-color: rosybrown;
+    border-color: pink;
+    border-width: 20px;
+    border-style: solid;
+    border-radius: 15px 50px 5px 100px;
 }
-
