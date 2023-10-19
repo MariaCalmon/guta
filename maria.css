@@ -1,13 +1,14 @@
-
 .capivara{
     font-size: medium;
     font-style: italic;
+    color: aquamarine;
 }
 .pinguim{
     width: 100%;
 }
-.h2{
+.h1{
  background-color: aqua;
+ color: blueviolet;
 }
 .macacoprego{
 font-size: 50%;
@@ -26,4 +27,9 @@ h2{
     background-color: darkgoldenrod;
     width: 50%;
 }
-
+.lista{
+    border-color: blue;
+    border-width: 20px;
+    border-style: solid;
+    border-radius: 15px 50px 5px 100px;
+}
