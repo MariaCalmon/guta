@@ -2,7 +2,7 @@
     font-size: medium;
     text-align: center;
     font-style: italic;
-    color: aquamarine;
+    color: black;
 }
 .pinguim{
     width: 100%;
@@ -36,4 +36,42 @@ h2{
     border-width: 20px;
     border-style: solid;
     border-radius: 15px 50px 5px 100px;
-}
+    .capivara{
+        font-size: medium;
+        text-align: center;
+        font-style: italic;
+        color: aquamarine;
+    }
+    .pinguim{
+        width: 100%;
+        text-align: left;
+    }
+    .h1{
+     background-color: blue;
+    text-align: center;
+     color: blueviolet;
+    }
+    .macacoprego{
+    font-size: 50%;
+    text-align: center;
+    }
+    .macaquinho{
+        margin-left: 20%;
+    }
+    h2{
+        background-color: blue;
+    }
+    .golfinho{
+        display:inline-block;
+        padding: 40%;
+    }
+    .Rei{
+        background-color: darkgoldenrod;
+        width: 50%;
+    }
+    .lista{
+        border-color: blue;
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 15px 50px 5px 100px;
+    }
