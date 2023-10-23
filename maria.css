@@ -1,17 +1,21 @@
 .capivara{
     font-size: medium;
+    text-align: center;
     font-style: italic;
     color: aquamarine;
 }
 .pinguim{
     width: 100%;
+    text-align: left;
 }
 .h1{
- background-color: aqua;
+ background-color: blue;
+text-align: center;
  color: blueviolet;
 }
 .macacoprego{
 font-size: 50%;
+text-align: center;
 }
 .macaquinho{
     margin-left: 20%;
