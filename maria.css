@@ -25,6 +25,11 @@ text-align: center;
 h2{
     background-color: blue;
 }
+h3{
+    background-color: crimson;
+    text-align: center;
+    font-style: italic;
+}
 .golfinho{
     display:inline-block;
     padding: 40%;
