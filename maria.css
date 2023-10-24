@@ -7,6 +7,7 @@
 .Walt{
     width: 40%;
     margin-left: center;
+    background-color: black;
 }
 .h1{
  background-color: blue;
@@ -19,12 +20,12 @@ text-align: center;
 }
 .branca{
     margin-left: center;
-    background-color: red blue;
+    background-color: red;
     text-align: center;
 }
 h2{
     background-color: blue;
-    text-aling: center;
+    text-align: center;
 }
 h3{
     background-color: crimson;
