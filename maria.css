@@ -6,7 +6,7 @@
 }
 .Walt{
     width: 40%;
-    text-align: center;
+    margin-left: center;
 }
 .h1{
  background-color: blue;
@@ -14,11 +14,11 @@ text-align: center;
  color: blueviolet;
 }
 .neve{
-font-size: 50%;
+font-size: medium;
 text-align: center;
 }
 .branca{
-    margin-left: 20%;
+    margin-left: center;
     background-color: red blue;
     text-align: center;
 }
