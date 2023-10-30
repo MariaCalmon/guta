@@ -47,3 +47,7 @@ h3{
     border-style: solid;
     border-radius: 15px 50px 5px 100px;
 }
+nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
